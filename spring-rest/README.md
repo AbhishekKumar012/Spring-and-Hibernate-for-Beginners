@@ -173,6 +173,24 @@ Handles all exceptions because 'Exception' is the root of all exceptions.
 
 ![img_21.png](img_21.png)
 
+<b><h3>Global Exception Handler</h3></b>
+Problem with the above method of @ExceptionHandler
+![img_22.png](img_22.png)
+
+![img_23.png](img_23.png)
+
+![img_24.png](img_24.png)
+
+![img_25.png](img_25.png)
+
+![img_26.png](img_26.png)
+
+![img_27.png](img_27.png)
+
+![img_28.png](img_28.png)
+
+![img_29.png](img_29.png)
+
 
 <br/>
 <div align="right">
