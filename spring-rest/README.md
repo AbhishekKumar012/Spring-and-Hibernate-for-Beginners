@@ -140,6 +140,40 @@ What we want
 ![img_6.png](img_6.png)
 
 ![img_7.png](img_7.png)
+
+![img_9.png](img_9.png)
+
+![img_10.png](img_10.png)
+
+![img_11.png](img_11.png)
+
+![img_12.png](img_12.png)
+
+![img_14.png](img_14.png)
+
+Jackson will be responsible for actually converting the response body to JSON
+
+![img_15.png](img_15.png)
+
+![img_16.png](img_16.png)
+
+What would happen if any other exception arises insted of StudentNotFoundException?
+
+![img_17.png](img_17.png)
+
+We have to modify our code to handle generic exceptions.
+
+![img_18.png](img_18.png)
+
+Handles all exceptions because 'Exception' is the root of all exceptions.
+
+![img_19.png](img_19.png)
+
+![img_20.png](img_20.png)
+
+![img_21.png](img_21.png)
+
+
 <br/>
 <div align="right">
   <b><a href="#spring-rest">[ ↥ Back To Top ]</a></b>
